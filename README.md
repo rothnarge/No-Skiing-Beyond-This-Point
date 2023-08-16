@@ -13,4 +13,4 @@ The keyboard routine is fast but keeps the last value even when no key is presse
 
 I may revist as VDP, MOS and BBC Basic mature on the AGON, maybe with sprites instead of characters.
 
-See Ma you can write games on the AGON :D
+See Ma,you can write games on the AGON :D
